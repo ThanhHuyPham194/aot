@@ -1,0 +1,19 @@
+.menu-template{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 10%;
+    background-color: #262262;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.outlet{
+    width: 90%;
+    float: right;
+}
+
